@@ -24,7 +24,7 @@
 
 <!-- TABLE OF CONTENTS -->
 
-## Table of Contents
+## ✔️ Table of Contents
 
 - [Overview](#overview)
   - [Built With](#built-with)
@@ -34,43 +34,58 @@
 
 <!-- OVERVIEW -->
 
-## Overview
+## ✨ Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](.github/layout.gif)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+The project consists of a creation of a 404 page not found being the design responsive.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+### 🐧 My impression
 
-### Built With
+This project took a lot of attention to detail, since to deal with a responsive layout I have to make several changes and concepts that I didn't use before. The challenge motivated me to look for more about good practices within CSS, how much responsiveness and meaning to the user. Overall I conclude that I have a long way to go and a lot of content to learn!
+
+## 💻 Demonstration
+
+<p align="center">
+  <a href="https://404-not-found-six-wheat.vercel.app/" alt="Site teste">
+    <image src=".github/netlify.png" alt="netlify">
+  </a>
+</p>
+
+### 🚀 Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+</p>
 
-## Features
+## ⚛️ Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
 
-## Acknowledgements
+## 📚 Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
-## Contact
+## 🔗 Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@jonbrand](https://github.com/jonbrand)
+- Linkedin [@Jonatas Brandão](https://www.linkedin.com/in/jonatas-brand%C3%A3o/)
 
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+
+---
+
+<p align="center">
+  <img alt="Keep Coding" src=".github/keepcoding.png" width="60%">
+</p>
